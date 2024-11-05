@@ -14,14 +14,14 @@ Our laboratory actively contributes to the scientific community through a range 
   include button.html
   type="link"
   text="International Journals"
-  link="03-publications/#international-journals"
+  link="publications/#international-journals"
 %}
 
 {%
   include button.html
   type="link"
   text="International Conferences"
-  link="03-publications/#international-conferences"
+  link="publications/#international-conferences"
 %}
 
 {% include section.html %}

@@ -8,27 +8,20 @@ nav:
 {% include section.html background="images/pages-title-background/joinus.jpg" dark=true %}
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Become a part of our collaborative and forward-thinking research community. At our lab, we are dedicated to pushing the boundaries of science and discovery. 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="chingchun@cs.nycu.edu.tw"
+  link="chingchun@cs.nycu.edu.tw"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  type="Engineering Building 3, NYCU Guangfu Campus"
+  link="https://maps.app.goo.gl/GwHsfWVduyaE4DCMA"
 %}
 
 {% include section.html %}
@@ -37,8 +30,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/pages-title-background/team.jpg"
+  caption=""
+  link="team"
 %}
 
 {% endcapture %}
@@ -47,8 +41,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/pages-title-background/publications.jpg"
+  caption=""
+  link="team"
 %}
 
 {% endcapture %}
