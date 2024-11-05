@@ -90,5 +90,4 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 {%
   include grid.html
   content=content
-  style="square"
 %}
