@@ -12,7 +12,7 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {% include section.html %}
 
-{% capture col1 %}
+{% capture content %}
 
 {%
   include figure.html
@@ -38,10 +38,6 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
   link="https://www.twincn.com/item.aspx?no=11845104"
 %}
 
-{% endcapture %}
-
-{% capture col2 %}
-
 {%
   include figure.html
   image="images/sponsors-logo/National.png"
@@ -65,10 +61,6 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
   image="images/sponsors-logo/E_sun.png"
   link="https://www.esunbank.com.tw/bank/corporate/institution/institution/contact-us"
 %}
-
-{% endcapture %}
-
-{% capture col3 %}
 
 {%
   include figure.html
@@ -95,4 +87,8 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
