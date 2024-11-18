@@ -17,7 +17,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Research Direction
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
