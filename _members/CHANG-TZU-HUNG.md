@@ -1,10 +1,9 @@
 ---
-name: 梅里紗 Widdha Mellyssa 
-image: images/members/412540004.jpg 
-role: phd
+name: 張子泓 CHANG,TZU-HUNG
+image: images/members/313551131.jpg 
+role: role
 aliases:
-  - widdha
-  - mellyssa
+  - chang tsu hung
 links:
   home-page: https://example.com/
   email: example@cs.nycu.edu.tw

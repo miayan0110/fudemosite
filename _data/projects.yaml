@@ -1,86 +1,86 @@
-- title: Smart Building
-  subtitle: a subtitle
+- title: Autonomous Vehicle
+  # subtitle: a subtitle
   group: featured
-  image: images/research/TSMC_smart_office.png
+  image: images/research/autonomous_car.png
   link: https://github.com/
-  description: TSMC Smart Office, Museum Guidance System
+  description: autonomous vehicle surrounding, auto-vehicle multi-sensor fusion, neural architecture search
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Image Analysis/Restoration
-  subtitle: a subtitle
+- title: Image and Video Processing
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/research/image_processing.jpg
   link: https://github.com/
-  description: Transfer Learning, Medical Image Analysis, Image/Video Compression & Restoration
+  description: image enhancement, image generation, 3D generation, 3D editing, 3D synthesis
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: AR/VR
-  subtitle: a subtitle
+- title: Document Processing
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/research/document.png
   link: https://github.com/
-  description: Skeleton-based Human-Computer interaction, Pilot training system (head pose estimation)
+  description: handwritten text recognition/generation
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Smart Robot
-  subtitle: a subtitle
+- title: Natural Language Processing
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/research/vqa.png
   link: https://github.com/
-  description: Cleaning robot, UAV based density estimation
+  description: visual question answering/generation, video understanding
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Smart Traffic
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Parking Lot system, Automatic Management of Roadside Parking Spaces based on Deep Learning, Geomagnetic Sensor Networks, and LoRa Communication, Autonomous vehicle - lane detection, Autonomous vehicle - Depth completion
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# - title: Smart Traffic
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Parking Lot system, Automatic Management of Roadside Parking Spaces based on Deep Learning, Geomagnetic Sensor Networks, and LoRa Communication, Autonomous vehicle - lane detection, Autonomous vehicle - Depth completion
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Image Processing
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+# - title: Image Processing
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
 
-- title: Computer Vision
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Computer Vision
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
 
-- title: Wireless Communication
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Wireless Communication
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
 
-- title: Control and Sensor
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Control and Sensor
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
