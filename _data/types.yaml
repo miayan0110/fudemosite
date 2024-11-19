@@ -6,6 +6,10 @@ prof:
   icon: fa-solid fa-microscope
   description: Advisor/Professor
 
+co-ad:
+  icon: fa-solid fa-microscope
+  description: Co-Advisor
+
 formerMem:
   icon: fa-solid fa-user-group
   description: Former Member

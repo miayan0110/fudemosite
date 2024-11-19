@@ -17,7 +17,7 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 
 ## Co-Advisor
 
-{% include list.html data="members" component="portrait" filters="role: prof" %}
+{% include list.html data="members" component="portrait" filters="role: co-ad" %}
 
 ## PhD students
 
