@@ -4,7 +4,7 @@
 
 prof:
   icon: fa-solid fa-microscope
-  description: Advisor
+  description: Advisor/Professor
 
 formerMem:
   icon: fa-solid fa-user-group
