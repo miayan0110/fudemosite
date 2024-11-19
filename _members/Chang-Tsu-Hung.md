@@ -1,7 +1,7 @@
 ---
-name: 張子泓 CHANG,TZU-HUNG
+name: 張子泓 Chang,Tsu-Hung
 image: images/members/313551131.jpg 
-role: role
+role: master
 aliases:
   - chang tsu hung
 links:

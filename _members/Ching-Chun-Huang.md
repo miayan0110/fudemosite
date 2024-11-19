@@ -1,6 +1,7 @@
 ---
 name: 黃敬群 Ching-Chun Huang 
-image: images/members/chingchun.jpg 
+image: images/members/prof.png
+# image: images/members/chingchun.jpg  
 role: prof
 aliases:
   - ching chun huang
