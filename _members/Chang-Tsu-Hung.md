@@ -1,9 +1,9 @@
 ---
-name: 陳武黃 Tran Vu Hoang 
-image: images/members/hoang.jpg 
-role: co-ad
+name: 張子泓 Chang,Tsu-Hung
+image: images/members/313551131.jpg 
+role: master
 aliases:
-  - vu hoang tran
+  - chang tsu hung
 links:
   home-page: https://example.com/
   email: example@cs.nycu.edu.tw

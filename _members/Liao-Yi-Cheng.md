@@ -1,10 +1,10 @@
 ---
-name: 梅里紗 Widdha Mellyssa 
-image: images/members/412540004.jpg 
-role: phd
+name: 廖怡誠 Liao Yi-Cheng
+image: images/members/313553014.jpg 
+role: master
 aliases:
-  - widdha
-  - mellyssa
+  - yi cheng liao
+  - Denny
 links:
   home-page: https://example.com/
   email: example@cs.nycu.edu.tw
